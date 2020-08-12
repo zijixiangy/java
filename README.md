@@ -169,7 +169,7 @@
 
 ## 互联网Java进阶面试训练营
 
-### 第一季-分布式
+### 互联网 Java 工程师面试突击（第二季）
 - [01、互联网大厂面试要求：技术广度、技术深度、系统设计以及项目经验](/docs/distributed-system/distributed-design.md)
 - [02、Java工程师面试突击第一季总结：你离一次成功的面试还差多少？](/docs/distributed-system/java-interview-season-1-summary.md)
 - [03、《21天互联网Java进阶面试训练营》的课程说明](/docs/distributed-system/21-day-course-instructions.md)
