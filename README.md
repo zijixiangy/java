@@ -3,7 +3,10 @@
 ### 内容说明：
 本仓库存放的是公众号【儒猿技术窝】和**中华石杉**老师合作的课程《**互联网Java进阶面试训练营**》的笔记，版权归儒猿技术窝所有，侵权将追究法律责任
 
-训练营详细信息请关注公众号【儒猿技术窝】了解 - [中华石杉架构课程B站直通车](https://space.bilibili.com/478364560/channel/detail?cid=155048)
+架构课程详细信息
+- [儒猿架构官网](http://www.ruyuan2020.com/)
+- [石杉架构课程大纲](https://docs.qq.com/pdf/DY3NPcXZ1dE9RZlFh)
+- [石杉架构课程B站直通车](https://space.bilibili.com/478364560/channel/detail?cid=155048)
 
 ### 公众号:儒猿技术窝
 
